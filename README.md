@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **I have a bearded dragon and a English Bulldog.**
 
-- PORTFOLIO link: https://github.com/katiezgriffith/katiezgriffith.github.io.git
+- PORTFOLIO link: https://github.com/katiezgriffith.github.io
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
